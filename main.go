@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/js7123/golang-gorm-postgres/initializers"
+	"github.com/js7123/rest-api-golang-gorm-postgres/initializers"
 )
 
 var (
